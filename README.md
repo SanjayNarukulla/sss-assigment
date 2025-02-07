@@ -1,4 +1,4 @@
-# Full Stack Project
+# sss-assignment
 
 ## Project Overview
 This is a full-stack web application built using React.js for the frontend and Express.js for the backend. The backend interacts with a MySQL database and follows RESTful API principles. This repository contains both frontend and backend code.

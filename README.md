@@ -90,7 +90,7 @@ Ensure you have installed:
 1. Clone the repository:
 ```sh
 git clone https://github.com/SanjayNarukulla/sss-assignment.git
-cd fullstack-project
+cd sss-assignment
 ```
 
 2. Start the backend:
